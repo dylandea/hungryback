@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "@google-cloud/vision": "^2.4.2",
+    "bcrypt": "^5.0.1",
+    "cloudinary": "^1.30.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.4.0",
+    "fileupload": "^1.0.0",
+    "http-errors": "~1.6.3",
+    "mongoose": "^6.4.4",
+    "morgan": "~1.9.1",
+    "node-tesseract-ocr": "^2.2.1",
+    "nodemon": "^2.0.19",
+    "puppeteer": "^16.0.0",
+    "puppeteer-core": "^16.0.0",
+    "sync-request": "^6.1.0",
+    "tesseract.js": "^2.1.5",
+    "tesseractocr": "^2.0.3",
+    "uid2": "^1.0.0",
+    "uniqid": "^5.4.0"
+  }
+}
