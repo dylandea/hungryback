@@ -1,0 +1,155 @@
+### /ochazuke.jpeg
+## psm6 =>KO
+{
+    "text": "Ochazuke, riz parfumé au thé _  — —-—\n_—\nProportions : 
+    1 personnes Difficutté : WI\nTemps de préparation : 5min Temps de cuisson : Omin\n\n
+    Ingrédient : 180g riz cuit, pousses d’épinard et de betterave, 1 cuil. à\n
+    soupe de graines de sésame torrétiées, Lg de saumon cru coupé en dés, 
+    1\ncuil. à café de paillettes d'atque, 
+    1 quart de pomme acidutée type granny\nsmith coupé en dés, 
+    Le bouillon : 104 de thé sensha, 20ct de dashi (ou\nautre bouillon de qualité), 
+    1 euil. à soupe sauce soja.\n\nç Ca) # N\n\n[0 (Ce DE\nESS\nù \\ de Da *\nà Rs\nNN = s VW J 4
+    \nDans un bol, disposer Le riz et saupoudrer de tous Les ingrédients em “+ Vs de =\nterminant par 
+    Les dés de saumon. Faire chauffer Le bouillon, couper Le D. VD\nfeu avant ébullition, 
+    et y faire infuse min Le senska, puis ajoutæ = 1\nla sauce soja et werser par dessus Le riz.
+     Déqustez | k ci\nRecette & illustrations de Matkilda Motte +\n"
+}
+
+## psm3
+# console
+Result: Ochazuke, riz parfumé au thé -
+
+Proportions : 1 personnes Difficulté à NN
+Temps de préparation : 5min Temps de cuisson : Omin
+
+Ingrédient : 180g riz cuit, pousses d’épinard et de betterave, 1 cuil. à
+soupe de graines de sésame torréfiées, L0g de saumon cru coupé en dés, 1
+cuil. à café de paillettes d'atque, 1 quart de pomme acidutée type granny
+smith coupé en dés, Le bouillon : 104 de thé sensha, 20ct de dashi (ou
+autre bouillon de qualité), 1 euil. à soupe sauce soja.
+
+4
+
+Dans un bol, disposer Le riz et saupoudrer de tous Les ingrédients en
+terminant par Les dés de saumon. Faire chauffer Le bouillon, couper Le
+feu avant ébullition, et y faire infuser imin Le sensha, puis ajout | |
+
+la sauce soja et werser par dessus Le riz. Déqustez |
+
+Recette & illustrations de Mathilda Motte
+# Postman
+{
+    "text": "Ochazuke, riz parfumé au thé -\n\nProportions : 1 personnes Difficulté à NN\nTemps de préparation : 5min Temps de cuisson : Omin\n\nIngrédient : 180g riz cuit, pousses d’épinard et de betterave, 1 cuil. à\nsoupe de graines de sésame torréfiées, L0g de saumon cru coupé en dés, 1\ncuil. à café de paillettes d'atque, 1 quart de pomme acidutée type granny\nsmith coupé en dés, Le bouillon : 104 de thé sensha, 20ct de dashi (ou\nautre bouillon de qualité), 1 euil. à soupe sauce soja.\n\n4\n\nDans un bol, disposer Le riz et saupoudrer de tous Les ingrédients en\nterminant par Les dés de saumon. Faire chauffer Le bouillon, couper Le\nfeu avant ébullition, et y faire infuser imin Le sensha, puis ajout | |\n\nla sauce soja et werser par dessus Le riz. Déqustez |\n\nRecette & illustrations de Mathilda Motte\n\n"
+}
+
+#### sandre.png
+## psm3
+# console
+Result: Sandre, son Voile de Bacon, T'omates Farcies et
+Mayonnaise d'Orange
+
+Kecette proposée par Marts Grassi
+T'antris - Novara
+00390%21657%43
+
+Recette pour 4 personnes
+
+Ingrédients
+
+400 gr. de filet de sandre
+
+12 tomates cerises
+
+60 gr. de bacon en tranches fines
+
+15 gr. de filets d'anchois
+
+30 gr. de tapenade
+
+30 gr. d'échalotes hachées
+
+15 gr. de beurre
+
+Huile d'olives “taggiasche” de Ligurie
+
+Pour la sauce
+
+1 grande orange
+
+2,5 gr de farine de riz
+
+50 gr d'huile d'olives “taggiasche” de la Ligurie
+
+Préparation
+
+Couper le filet de poisson en morceaux, de sorte que chaque assiette ait
+trois morceaux. Envelopper chaque morceau dans une tranche de bacon et faire dorer
+dans une poêle. Terminer la cuisson au four.
+
+Monder les tomates fraîches. Hacher les échalotes, les faire sauter dans du beurre,
+ajouter les anchols, la tapenade et l'origan. Farcir les tomates et terminer la cuisson au
+four avec les sandres.
+
+Presser les oranges ; le jus devra être réduit de moitié, ajouter la farine de riz; cuire
+quelques minutes, et monter comme une mayonnaise, hors du feu.
+
+Servir à volonté.
+
+recette,recettes,cuisine, italie, grand chef, www.cuisine-francaise.org
+
+# Postman
+{
+    "text": "Sandre, son Voile de Bacon, T'omates Farcies et\nMayonnaise d'Orange\n\nKecette proposée par Marts Grassi\nT'antris - Novara\n00390%21657%43\n\nRecette pour 4 personnes\n\nIngrédients\n\n400 gr. de filet de sandre\n\n12 tomates cerises\n\n60 gr. de bacon en tranches fines\n\n15 gr. de filets d'anchois\n\n30 gr. de tapenade\n\n30 gr. d'échalotes hachées\n\n15 gr. de beurre\n\nHuile d'olives “taggiasche” de Ligurie\n\nPour la sauce\n\n1 grande orange\n\n2,5 gr de farine de riz\n\n50 gr d'huile d'olives “taggiasche” de la Ligurie\n\nPréparation\n\nCouper le filet de poisson en morceaux, de sorte que chaque assiette ait\ntrois morceaux. Envelopper chaque morceau dans une tranche de bacon et faire dorer\ndans une poêle. Terminer la cuisson au four.\n\nMonder les tomates fraîches. Hacher les échalotes, les faire sauter dans du beurre,\najouter les anchols, la tapenade et l'origan. Farcir les tomates et terminer la cuisson au\nfour avec les sandres.\n\nPresser les oranges ; le jus devra être réduit de moitié, ajouter la farine de riz; cuire\nquelques minutes, et monter comme une mayonnaise, hors du feu.\n\nServir à volonté.\n\nrecette,recettes,cuisine, italie, grand chef, www.cuisine-francaise.org\n"
+}
+
+## gratin de courges 
+#psm3
+# postman
+"text": "Gratin de rauioles, courge & châtaignes\n\nby @ma_healthy_tendency\n\nPour 5 personnes :\n\n+5 plaques de ravioles\n\n+ 1KG de courge (avec la peau)\n\n+ 1 bocal de châtaines poêlées\n\n+ +/- 200g de champignons de Paris\n\n+ oignon\n\n+ 2 cas de crème d'amande cuisine (ou autre\ncrème)\n\n+ sel, poivre 5 baies, parmesan râpé\n\n@ma_heatthy_tendency\nInstructions :\nCommencer par retirer la peau de la courge et la couper en morceaux.\n\nLa cuire à la vapeur ou à l'eau (dans ce cas, bien retirer l'excédent d'eau en fin de cuisson)\njusqu'à ce qu'elle soit tendre (tester avec la pointe d'un couteau). Réserver.\n\nPasser les châtaignes poëlées au robot pour les hacher.\nEmincer l'oignon et les champignons:\nDans une sauteuse légèrement huilée, faire revenir l'oignon. Ajouter les champignons.\n\nQuand le tout a fondu, rajouter la courge. Mélanger avec une cuillère en bois et écraser\nlégèrement les morceaux de courge. Laisser revenir à feu moyen.\n\nCuire les ravioles 1min à l'eau bouillante. Egoutter. Les verser dans la sauteuse, mélanger.\nVerser les châtaignes hachées. Ajouter 2 cas de crème. Assaisonner : poivre, sel. Mélanger.\nDans un plat à gratin, verser le tout, bien étaler. Saupoudrer de parmesan râpé.\n\nEnfourner pendant une vingtaine de minutes à 180°C. Finir quelques minutes en mode grill\npour un joli \"gratinage”.\n\nDéguster avec une bonne salade verte\n"
+}
+# console
+Result: Gratin de rauioles, courge & châtaignes
+
+by @ma_healthy_tendency
+
+Pour 5 personnes :
+
++5 plaques de ravioles
+
++ 1KG de courge (avec la peau)
+
++ 1 bocal de châtaines poêlées
+
++ +/- 200g de champignons de Paris
+
++ oignon
+
++ 2 cas de crème d'amande cuisine (ou autre
+crème)
+
++ sel, poivre 5 baies, parmesan râpé
+
+@ma_heatthy_tendency
+Instructions :
+Commencer par retirer la peau de la courge et la couper en morceaux.
+
+La cuire à la vapeur ou à l'eau (dans ce cas, bien retirer l'excédent d'eau en fin de cuisson)
+jusqu'à ce qu'elle soit tendre (tester avec la pointe d'un couteau). Réserver.
+
+Passer les châtaignes poëlées au robot pour les hacher.
+Emincer l'oignon et les champignons:
+Dans une sauteuse légèrement huilée, faire revenir l'oignon. Ajouter les champignons.
+
+Quand le tout a fondu, rajouter la courge. Mélanger avec une cuillère en bois et écraser
+légèrement les morceaux de courge. Laisser revenir à feu moyen.
+
+Cuire les ravioles 1min à l'eau bouillante. Egoutter. Les verser dans la sauteuse, mélanger.
+Verser les châtaignes hachées. Ajouter 2 cas de crème. Assaisonner : poivre, sel. Mélanger.
+Dans un plat à gratin, verser le tout, bien étaler. Saupoudrer de parmesan râpé.
+
+Enfourner pendant une vingtaine de minutes à 180°C. Finir quelques minutes en mode grill
+pour un joli "gratinage”.
+
+Déguster avec une bonne salade verte
+
+

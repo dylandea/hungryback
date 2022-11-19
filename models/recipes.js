@@ -3,8 +3,8 @@ var mongoose = require("mongoose");
 var ingredientSchema = mongoose.Schema({
 	name: String,
 	quantity: String,
+	//isCheckedInShoppingList: Boolean,
 });
-// + isCheckedInShoppingList: Boolean, si on veut garder les elements cochés de la shoppingList
 
 var authorSchema = mongoose.Schema({
 	username: String,
